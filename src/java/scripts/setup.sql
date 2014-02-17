@@ -10,4 +10,3 @@ insert into Person values(1000,'Peter','Olsen');
 insert into Person values(1001,'Jan','Hansen');
 insert into Person values(1002,'Ida','Andersen');
 
-select * from Person;
